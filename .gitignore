@@ -1,0 +1,17 @@
+# Ignore Docker files
+*.tar.gz
+*.tgz
+*.zip
+*.log
+
+# Ignore local data directories
+data/
+hadoop_data/
+logs/
+
+# Ignore IDE files
+*.swp
+*.swo
+*.DS_Store
+.idea/
+.vscode/
